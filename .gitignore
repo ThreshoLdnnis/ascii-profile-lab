@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+qa/
+PROFILE_README.md
+examples/ascii-portrait.json
